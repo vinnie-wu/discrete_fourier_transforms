@@ -12,6 +12,7 @@ Preprocessor directives
 Use this special directive before including math.h because the
 math.h header defines some useful constants like M_PI which are not
 part of the C standard. */
+
 #define _USE_MATH_DEFINES
 
 #include <math.h>
@@ -45,6 +46,7 @@ POST:   y[i] for 0<i<((2^m)-1) contains the complex component of
 the fft of x[i] (inverse fft if dir != 1)
 RETURN: N/A (void)
 */
+
 void fft(short int dir, long m, double x[], double y[])
 {
   long n, i, i1, j, k, i2, l, l1, l2;
@@ -79,6 +81,7 @@ void fft(short int dir, long m, double x[], double y[])
   c1 = -1.0;
   c2 = 0.0;
   l2 = 1;
+  
   for (l = 0; l < m; l++) {
     l1 = l2;
     l2 <<= 1;
