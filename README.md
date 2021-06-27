@@ -6,3 +6,5 @@ The Discrete Fourier Transform (DFT) is discussed frequently in undergraduate co
 1. There are two primary projects that I have developed to demonstrate this. Both are developed in undergraduate UBC courses, respectively: CPSC 259 and ELEC 221. Credits for the projects motivation are given to the course instructors teaching me at that time.
 
 2. Please feel free to run GitHub workflow tests on these code, reading through the code should give you an intuition of what they do, but if you feel little lazy, I will explain them in their respective repositories. 
+
+3. The following video links can be helpful in gaining an introductory understanding of the Fourier transform: <insert links here>
