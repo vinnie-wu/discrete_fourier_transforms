@@ -5,3 +5,6 @@ The Discrete Fourier Transform (DFT) is discussed frequently in undergraduate co
 #### Code
 There are two primary projects that I have developed to demonstrate this. Both are developed in undergraduate UBC courses, respectively: CPSC 259 and ELEC 221. Credits for the projects motivation are given to the course instructors teaching me at that time: Dr. Geoffrey Tien, Dr. Lutz Lampe. 
 
+#### See Projects here:
+1. CPSC 259 - [Data Structures & Algorithms](https://github.com/vinnie-wu/data_structures_and_algorithms_cpsc259) (Beginner-level)
+2. ELEC 221 - [Computer Vision Kernel](https://github.com/vinnie-wu/computer_vision_kernel) (Intermediate-level)
